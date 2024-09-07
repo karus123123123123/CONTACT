@@ -87,7 +87,7 @@ function showMessage() {
 const SubmitButton = document.getElementById("submit-button");
 
 function changecolor() {
-    SubmitButton.style.backgroundColor = "green";
+    SubmitButton.style.backgroundColor = "#1ba4c2";
 }
 
 function resetcolor() {
